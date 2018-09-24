@@ -1,11 +1,16 @@
 _repo: A-Manual-of-Ancient-History_56734
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56734-h/images/cover.jpg
 creator:
   author:
     agent_name: Thalheimer, M. E.
     gutenberg_agent_id: '49006'
     url: http://www.gutenberg.org/2009/agents/49006
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56734#A-Manual-of-Ancient-History
 gutenberg_issued: '2018-03-13'
 gutenberg_type: Text
 identifiers:
